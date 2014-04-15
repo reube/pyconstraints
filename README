@@ -1,5 +1,4 @@
 This project enables the integration of Python with constraint engines.
-More specifics will be available soon
 
 This integration will be implemented in stages.  The first stage will be a simple, and primitive integration.  It will be something along these lines:
 
@@ -13,6 +12,8 @@ This integration will be implemented in stages.  The first stage will be a simpl
 |<-----------------------------|
 
 Subsequent iterations will consider increasingly tighter integration of the two languages
+
+More specifics will be available soon
 
 reube4@gmail.com
 
