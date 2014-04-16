@@ -2,10 +2,8 @@ This project enables the integration of Python with constraint engines.
 
 This integration will be implemented in stages.  The first stage will be a simple, and primitive integration.  It will be something along these lines:
 
-|Python - main    |listener    |Picat
-|----configure---------------->|
+|Python - main    |listener    |Picat,other
 |----add listener(listener)--->|
-|----prime theory------------->|
 |----run goal----------------->|
 |		  |<-unify-----|
 |                 |  ...       |
